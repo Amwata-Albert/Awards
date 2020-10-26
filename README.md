@@ -5,7 +5,7 @@
 ## Description
 This is a Django Web Application where you can post and/or view different projects and rate them according to design,usability and content.
 #### Link to deployed site
-
+https://award-s.herokuapp.com/
 
 ## Table of content
 1. [Description](#description)
