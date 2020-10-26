@@ -51,7 +51,7 @@ Give an example
 3. [Pip](https://pip.pypa.io/en/stable/installing/)
 
 #### Technologies used
-    - Python 3.6
+    - Python 3.8
     - HTML
     - Bootstrap 4
     - Heroku
