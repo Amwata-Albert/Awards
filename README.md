@@ -46,7 +46,7 @@ Give an example
 
 
 #### Prerequisites
-1. [Python3.6](https://www.python.org/downloads/)
+1. [Python3.8](https://www.python.org/downloads/)
 2. [virtualenv](https://virtualenv.pypa.io/en/stable/installation/)
 3. [Pip](https://pip.pypa.io/en/stable/installing/)
 
