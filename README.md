@@ -5,7 +5,7 @@
 ## Description
 This is a Django Web Application where you can post and/or view different projects and rate them according to design,usability and content.
 #### Link to deployed site
-https://jamesmutahiawards.herokuapp.com/
+
 
 ## Table of content
 1. [Description](#description)
@@ -21,7 +21,7 @@ https://jamesmutahiawards.herokuapp.com/
 * Clone Project to your machine
 * Activate a virtual environment on terminal: `source virtual/bin/activate`
 * Install all the requirements found in requirements file.
-* On your terminal run `python3.6 manage.py runserver`
+* On your terminal run `python3.8 manage.py runserver`
 * Access the live site using the local host provided
 
 ## Running the tests
