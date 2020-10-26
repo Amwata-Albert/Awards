@@ -60,7 +60,7 @@ Give an example
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/JamesMutahi/django-awards.git
+git clone https://github.com/Amwata-Albert/Awards.git
 ```
 #### Initialize git and add the remote repository
 ```bash
